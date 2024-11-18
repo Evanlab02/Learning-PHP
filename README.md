@@ -4,3 +4,6 @@ This repository serves as my personal space for learning and practicing PHP prog
 
 - Part #1
     - [Hello World](./content/1/HelloWorld/README.md)
+    - [Variables and Types](./content/1/VariablesAndTypes/README.md)
+    - [Simple Arrays](./content/1/SimpleArrays/README.md)
+    - [Arrays with Keys](./content/1/ArraysWithKeys/README.md)
