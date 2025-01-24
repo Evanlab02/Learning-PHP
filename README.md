@@ -9,4 +9,6 @@ This repository serves as my personal space for learning and practicing PHP prog
     - [Arrays with Keys](./content/1/ArraysWithKeys/README.md)
     - [Multidimensional Arrays](./content/1/MultidimensionalArrays/README.md)
     - [Strings](./content/1/Strings/README.md)
-    - [For Loops](./content/1/ForLoops/README.md)    
+    - [For Loops](./content/1/ForLoops/README.md)
+    - [While Loops](./content/1/WhileLoops/README.md)
+    - [Functions](./content/1/Functions/README.md)
