@@ -12,3 +12,4 @@ This repository serves as my personal space for learning and practicing PHP prog
     - [For Loops](./content/1/ForLoops/README.md)
     - [While Loops](./content/1/WhileLoops/README.md)
     - [Functions](./content/1/Functions/README.md)
+    - [Objects](./content/1/Objects/README.md)
